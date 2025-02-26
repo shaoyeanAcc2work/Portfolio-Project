@@ -7,5 +7,6 @@ This respository created for hold all of the code and queries from Portfolio Pro
 - Micorsoft Excel, Power BI
 - MySQL WorkBench
 - Tableau
-
+- JupyterNotebook
+- Python 3.12.5
 
