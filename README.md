@@ -4,8 +4,8 @@ This respository created for hold all of the code and queries from Portfolio Pro
 
 # Tools
 
-Micorsoft Excel, Microsoft SQL Management Studio
+- Micorsoft Excel, Power BI
+- MySQL WorkBench
+- Tableau
 
-# Reference links
-coffeOrdersData.xlsx
-- The ONLY EXCEL PORTFOLIO PROJECT YOU NEED - Mo Chen https://www.youtube.com/watch?v=m13o5aqeCbM 
+
