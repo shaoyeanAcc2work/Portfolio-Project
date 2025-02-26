@@ -1,3 +1,4 @@
-List:
-coffeOrdersData.xlsx
-	The ONLY EXCEL PORTFOLIO PROJECT YOU NEED - Mo Chen 	https://www.youtube.com/watch?v=m13o5aqeCbM
+The projects are follow the tutorials in YouTube with them:
+Alex The Analyst
+Mo Chen
+
